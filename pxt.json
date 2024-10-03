@@ -2,7 +2,8 @@
     "name": "So,Erick ate the Cow",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "So,Erick ate the Cow": "github:teecow29/soerick-ate-the-cow#7a3f60231bf9beae822a35ce311bf69c6da564e8"
     },
     "files": [
         "main.blocks",
